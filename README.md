@@ -11,7 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonMedrano&layout=compact&langs_count=7&theme=merko"/>
   
 </div>
-  ## Tecnologias que domino
+ 
+ ## Tecnologias que domino
+ 
 <div style="display: inline_block" align="center"><br>
 
   <img align="center" alt="Ayrton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,9 +28,9 @@
 
 </div>
   
-  #
- 
+   
  ## Meus contatos
+ 
  <div align="center"> 
 
   <a href="https://instagram.com/medrano_maito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=red" target="_blank"></a>
