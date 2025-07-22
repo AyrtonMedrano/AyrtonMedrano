@@ -24,7 +24,6 @@
   <img align="center" alt="Ayrton-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="Ayrton-SQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Ayrton-Styled" height="30" width="40"src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
-   <img align="center" alt="Ayrton-Styled" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
 
 </div>
   
